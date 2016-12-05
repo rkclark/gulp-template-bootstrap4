@@ -1,14 +1,14 @@
 {
-  "name": "minesweeper",
+  "name": "Template",
   "version": "1.0.0",
-  "description": "minesweeper",
+  "description": "Template",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rkclark/minesweeper.git"
+    "url": "git+https://github.com/rkclark/gulp-template-bootstrap4.git"
   },
   "keywords": [
     "minesweeper"
@@ -16,9 +16,9 @@
   "author": "Rick Clark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rkclark/minesweeper/issues"
+    "url": "https://github.com/rkclark/gulp-template-bootstrap4/issues"
   },
-  "homepage": "https://github.com/rkclark/minesweeper#readme",
+  "homepage": "https://github.com/rkclark/gulp-template-bootstrap4#readme",
   "devDependencies": {
     "browser-sync": "^2.17.5",
     "del": "^2.2.2",
